@@ -1,4 +1,8 @@
 _repo: Sociology-and-Modern-Social-Problems_6568
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ellwood, Charles A. (Charles Abram)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2088'
     url: http://www.gutenberg.org/2009/agents/2088
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6568#Sociology-and-Modern-Social-Problems
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
